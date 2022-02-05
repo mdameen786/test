@@ -1,6 +1,6 @@
 function add(){
     var a=10;
   
-    var b=2;
-    console.log(a+b);
+    var b=20;
+    console.log(a*b);
 }
